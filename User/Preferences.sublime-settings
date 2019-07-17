@@ -1,4 +1,6 @@
 {
+	"tab_completion": false,
+
 	"binary_file_patterns":
 	[
 		"*.bin",

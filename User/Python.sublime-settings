@@ -1,6 +1,4 @@
 // These settings override both User and Default settings for the Python syntax
 {
-  "auto_complete" : false, // (we already have anaconda autocomplete for python)
   "auto_complete_triggers": [{"selector": "source.python - string - comment - constant.numeric", "characters": "."}]
-
 }

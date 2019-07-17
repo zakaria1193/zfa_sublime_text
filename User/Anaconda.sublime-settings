@@ -21,12 +21,12 @@
     "anaconda_linter_phantoms"           : true,
     "anaconda_linter_mark_style"         : "stippled_underline",
 
-    "auto_formatting": true,
-    /*
-    Fix only the errors listed here:
-    */
-    "autoformat_select":
-    [
-      // "E111" // indentation multiple of 4
-    ]
+    // "auto_formatting": true,
+    // /*
+    // Fix only the errors listed here:
+    // */
+    // "autoformat_select":
+    // [
+    //   // "E111" // indentation multiple of 4
+    // ]
 }
