@@ -24,6 +24,7 @@
 		"FindResultsBufferUtils",
 		"Fold Python",
 		"Git",
+		"GitGutter",
 		"GitStatusBar",
 		"GitSyntaxes",
 		"HexViewer",
