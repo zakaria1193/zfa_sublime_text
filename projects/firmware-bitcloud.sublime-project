@@ -12,12 +12,7 @@
 	[
 		{
 			"path": "/home/zfadli/firmware-bitcloud",
-			"working_dir": "/home/zfadli/firmware-bitcloud"
+			"file_exclude_patterns": ["openocd"]
 		}
-	],
-
-		"folder_exclude_patterns":
-	[
-		"openocd"
 	]
 }

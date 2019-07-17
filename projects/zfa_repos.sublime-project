@@ -11,7 +11,8 @@
 	"folders":
 	[
 		{
-			"path": "/home/zfadli/my_repos"
+			"path": "/home/zfadli/my_repos",
+        		"folder_exclude_patterns": ["*.sublime-workspace"]
 		}
 	]
 }
