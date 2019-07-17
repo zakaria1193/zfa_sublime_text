@@ -1,0 +1,23 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"python\" -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "/home/zfadli/firmware-bitcloud",
+			"working_dir": "/home/zfadli/firmware-bitcloud"
+		}
+	],
+
+		"folder_exclude_patterns":
+	[
+		"openocd"
+	]
+}
