@@ -11,8 +11,14 @@
 	"folders":
 	[
 		{
-			"path": "/home/zfadli/my_repos",
-        		"folder_exclude_patterns": ["*.sublime-workspace"]
+			"folder_exclude_patterns":
+			[
+				"*.sublime-workspace"
+			],
+			"path": "/home/zfadli/my_repos"
+		},
+		{
+			"path": "/home/zfadli/python-emb-tools"
 		}
 	]
 }
