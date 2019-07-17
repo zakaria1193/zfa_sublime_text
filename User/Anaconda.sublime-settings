@@ -14,10 +14,19 @@
     // Maximum line length for pep8
     "pep8_max_line_length": 100,
 
-    "anaconda_linter_mark_style": "stippled_underline",
-
-    "anaconda_linter_phantoms": true,
-
+    "anaconda_linting"                   : true,
+    "anaconda_linting_behaviour"         : "load-save",
     "anaconda_linter_show_errors_on_save": false,
-    "anaconda_linting_behaviour": "load-save"
+    "anaconda_linter_persistent"         : false,
+    "anaconda_linter_phantoms"           : true,
+    "anaconda_linter_mark_style"         : "stippled_underline",
+
+    "auto_formatting": true,
+    /*
+    Fix only the errors listed here:
+    */
+    "autoformat_select":
+    [
+      // "E111" // indentation multiple of 4
+    ]
 }
