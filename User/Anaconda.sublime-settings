@@ -1,0 +1,23 @@
+{
+    "pep8_ignore":
+    [
+      "E309",
+      "E272",
+      "E221",
+      "E261",
+      "E241",
+      "E126",
+      "E127",
+      "W504"
+    ],
+
+    // Maximum line length for pep8
+    "pep8_max_line_length": 100,
+
+    "anaconda_linter_mark_style": "stippled_underline",
+
+    "anaconda_linter_phantoms": true,
+
+    "anaconda_linter_show_errors_on_save": false,
+    "anaconda_linting_behaviour": "load-save"
+}

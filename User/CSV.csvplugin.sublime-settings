@@ -1,0 +1,9 @@
+{
+	"csv_per_file_setting":
+	[
+		{
+			"file": "/home/zfadli/repos/core/python-emb-tools/nlf_sarah.csv",
+			"use_header": true
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"extensions":
+	[
+		"h",
+		"c",
+		"h"
+	],
+    "binary_file_patterns":
+  [
+    "build/*",
+    "lib/*"
+  ]
+}
+

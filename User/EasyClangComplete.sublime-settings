@@ -1,0 +1,16 @@
+{
+  "flags_sources":
+  [
+  {
+    "file": "compile_commands.json",
+    "search_in": "/home/zfadli/firmware-bitcloud/"
+  },
+  {
+    "file": "compile_commands.json",
+    "search_in": "/home/zfadli/firmware/"
+  }
+  ],
+
+  "hide_default_completions": false,
+  "use_libclang" : false
+}

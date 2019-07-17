@@ -1,0 +1,26 @@
+// SublimeLinter Settings - User
+{
+  "lint_mode": "load_save",
+
+  //set Fill for all
+  "styles": [
+    {
+        "mark_style": "outline",
+        "priority": 1,
+        "scope": "region.yellowish markup.changed.sublime_linter markup.warning.sublime_linter",
+        "icon": "dot",
+        "types": [
+            "warning"
+        ]
+    },
+    {
+        "mark_style": "outline",
+        "priority": 1,
+        "scope": "region.redish markup.deleted.sublime_linter markup.error.sublime_linter",
+        "icon": "dot",
+        "types": [
+            "error"
+        ]
+    }
+  ]
+}

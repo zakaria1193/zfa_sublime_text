@@ -1,0 +1,24 @@
+{
+  "find_in_project_ignore_extensions": [
+    // Document extensions
+    "pdf", "xls", "xlsx", "doc", "docx", "ppt", "pptx", "epub",
+
+    // Archieve extensions
+    "zip", "rar", "7z", "deb", "pkg", "rpm", "gz", "z",
+
+    // Audio extensions
+    "mp3", "wma", "wav",
+
+    // Image extensions
+    "png", "jpeg", "jpg", "ico", "bmp", "svg", "gif",
+
+    // Video extensions
+    "avi", "mp4", "mpeg", "mpg", "wmv", "mov", "mkv", "flv",
+
+    // Misc extensions
+    "o", "out", "dll", "so", "bin", "iso", "exe", "db", "img",
+
+     // binaries
+    "bin", "hex", "S", "map", "d", "srec", "elf", "zigbee", "o", "a", "tar.gz"
+  ]
+}

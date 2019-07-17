@@ -1,0 +1,8 @@
+{
+	"extensions":
+	[
+		"Makefile_common",
+		"Makefile_All_StdlinkSec_SamR21_Atsamr21g18a_Rf233_8Mhz_Gcc",
+		"Makefile_All_StdlinkSec_SamR21_Rf233_Gcc_common"
+	]
+}

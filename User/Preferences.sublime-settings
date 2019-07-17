@@ -1,0 +1,56 @@
+{
+	"auto_complete": false,
+	"color_scheme": "Packages/Colorsublime - Themes/DarkKorokai.tmTheme",
+	"dictionary": "Packages/Language - French - Français/fr_FR (all variants).dic",
+	"ensure_newline_at_eof_on_save": false,
+	"extensions":
+	[
+		"c",
+		"h"
+	],
+	"file_exclude_patterns":
+	[
+		"*.bin",
+		"*.hex",
+		"*.S",
+		"*.map",
+		"*.d",
+		"*.srec",
+		"*.elf",
+		"*.zigbee",
+		"*.o",
+		"*.a",
+		"*.tar.gz",
+		"*.sublime-workspace",
+		"fakePds.c",
+		"fakeBSP.c",
+		"stdPdsDataServer.c"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		"atsamd20j18"
+	],
+	"font_size": 9,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"EasyClangComplete",
+		"GitGutter",
+		"Java",
+		"Makefile",
+		"StGitlab",
+		"SublimeCodeIntel",
+		"TabNine",
+		"Vintage"
+	],
+	"jsoncomma_on_save": true,
+	"rulers":
+	[
+		80,
+		100
+	],
+	"tab_size": 2,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
