@@ -1,14 +1,5 @@
 {
-	"auto_complete": false,
-	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/RamdaJS.tmTheme",
-	"dictionary": "Packages/Language - French - Français/fr_FR (all variants).dic",
-	"ensure_newline_at_eof_on_save": true,
-	"extensions":
-	[
-		"c",
-		"h"
-	],
-	"file_exclude_patterns":
+	"binary_file_patterns":
 	[
 		"*.bin",
 		"*.hex",
@@ -20,25 +11,30 @@
 		"*.zigbee",
 		"*.o",
 		"*.a",
-		"*.tar.gz",
-		"*.sublime-workspace"
+		"*.tar.gz"
+	],
+<<<<<<< Updated upstream
+	"color_scheme": "Packages/Colorsublime - Themes/monokate.tmTheme",
+=======
+	"color_scheme": "Packages/Colorsublime - Themes/zacks.tmTheme",
+>>>>>>> Stashed changes
+	"dictionary": "Packages/Language - French - Français/fr_FR (all variants).dic",
+	"ensure_newline_at_eof_on_save": false,
+	"file_exclude_patterns":
+	[
+		"fake*"
 	],
 	"folder_exclude_patterns":
 	[
-		".git",
-		"atsamd20j18"
+		".git"
 	],
-<<<<<<< Updated upstream
 	"font_size": 9,
-=======
-	"font_size": 10,
->>>>>>> Stashed changes
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Java",
 		"Makefile",
-		"StGitlab",
+		"SublimeLinter-annotations",
 		"TabNine",
 		"Vintage"
 	],
@@ -48,6 +44,7 @@
 		80,
 		100
 	],
+	"tab_completion": false,
 	"tab_size": 2,
 	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true

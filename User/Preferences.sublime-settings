@@ -13,7 +13,7 @@
 		"*.a",
 		"*.tar.gz"
 	],
-	"color_scheme": "Packages/Colorsublime - Themes/monokate.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/zacks.tmTheme",
 	"dictionary": "Packages/Language - French - Français/fr_FR (all variants).dic",
 	"ensure_newline_at_eof_on_save": false,
 	"file_exclude_patterns":
