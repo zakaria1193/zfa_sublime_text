@@ -31,3 +31,5 @@ sftp-config.json
 
 # backups of settings
 **/*bak
+
+**/*.orig
