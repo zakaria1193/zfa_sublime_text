@@ -11,8 +11,18 @@
 	"folders":
 	[
 		{
-			"path": "/home/zfadli/repos/embedded/magellan",
-			"folder_exclude_patterns": ["firmware-bitcloud", "firmware"]
+			"folder_exclude_patterns":
+			[
+				"firmware-bitcloud",
+				"firmware"
+			],
+			"path": "/home/zfadli/repos/embedded/magellan"
+		},
+		{
+			"path": "/home/zfadli/repos/embedded/magellan/modules/constants"
+		},
+		{
+			"path": "/home/zfadli/repos/embedded/magellan/modules/generic"
 		}
 	]
 }
