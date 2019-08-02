@@ -41,6 +41,7 @@
 		"RegexExplainTip",
 		"RemoveLineBreaks",
 		"Revert All Files",
+		"SetWindowTitle",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"SublimeLinter-shellcheck",

@@ -8,6 +8,7 @@
 		"*.d",
 		"*.srec",
 		"*.elf",
+		"*.fw",
 		"*.zigbee",
 		"*.o",
 		"*.a",
@@ -18,7 +19,8 @@
 	"ensure_newline_at_eof_on_save": false,
 	"file_exclude_patterns":
 	[
-		"fake*"
+		"fake*",
+		"*.orig"
 	],
 	"folder_exclude_patterns":
 	[
@@ -30,6 +32,7 @@
 	[
 		"Java",
 		"Makefile",
+		"SetWindowTitle",
 		"TabNine",
 		"Vintage"
 	],
