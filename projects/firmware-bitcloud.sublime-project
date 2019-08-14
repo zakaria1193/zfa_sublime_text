@@ -11,7 +11,7 @@
 	"folders":
 	[
 		{
-			"path": "/home/zfadli/firmware-bitcloud",
+			"path": "/home/zfadli/repos/embedded/firmware-bitcloud",
 			"folder_exclude_patterns": ["openocd", "Build", "lib"]
 		}
 	]

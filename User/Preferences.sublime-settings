@@ -21,13 +21,26 @@
 	"file_exclude_patterns":
 	[
 		"fake*",
-		"*.orig"
+		"*.orig",
+		"*.bin",
+		"*.hex",
+		"*.S",
+		"*.map",
+		"*.d",
+		"*.srec",
+		"*.elf",
+		"*.fw",
+		"*.zigbee",
+		"*.o",
+		"*.a",
+		"*.tar.gz",
+		"*.pyc"
 	],
 	"folder_exclude_patterns":
 	[
 		".git"
 	],
-	"font_size": 8,
+	"font_size": 10,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
