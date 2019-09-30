@@ -4,6 +4,10 @@
 		{
 			"file": "/home/zfadli/repos/core/python-emb-tools/nlf_sarah.csv",
 			"use_header": true
+		},
+		{
+			"file": "/home/zfadli/repos/embedded/magellan/modules/firmware-bitcloud/BitCloud/Components/ZCL/include/zclZllBasicCluster.h",
+			"use_header": true
 		}
 	]
 }

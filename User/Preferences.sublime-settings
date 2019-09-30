@@ -15,12 +15,11 @@
 		"*.tar.gz",
 		"*.pyc"
 	],
-	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/Adventure_Time.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/zacks.tmTheme",
 	"dictionary": "Packages/Language - French - Français/fr_FR (all variants).dic",
 	"ensure_newline_at_eof_on_save": false,
 	"file_exclude_patterns":
 	[
-		"fake*",
 		"*.orig",
 		"*.bin",
 		"*.hex",
@@ -34,13 +33,16 @@
 		"*.o",
 		"*.a",
 		"*.tar.gz",
-		"*.pyc"
+		"*.pyc",
+		"*.pdf",
+		"*.sys",
+		"*.dll"
 	],
 	"folder_exclude_patterns":
 	[
 		".git"
 	],
-	"font_size": 10,
+	"font_size": 12,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[

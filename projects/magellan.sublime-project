@@ -15,6 +15,11 @@
 			[
 				"firmware"
 			],
+			"file_exclude_patterns":
+			[
+				"D_XNv-ATmega.c",
+				"S_Nv-ATmega.c"
+			],
 			"path": "/home/zfadli/repos/embedded/magellan"
 		},
 		{
