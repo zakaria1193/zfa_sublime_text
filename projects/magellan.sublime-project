@@ -13,7 +13,7 @@
 		{
 			"folder_exclude_patterns":
 			[
-				"firmware"
+				// "firmware"
 			],
 			"file_exclude_patterns":
 			[

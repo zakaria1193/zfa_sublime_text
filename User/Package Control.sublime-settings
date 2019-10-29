@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"A File Icon",
 		"Align Arguments",
 		"Alignment",
 		"All Autocomplete",
@@ -21,6 +20,7 @@
 		"Colorsublime",
 		"CSV",
 		"DocBlockr_Python",
+		"FileIcons",
 		"FindResultsBufferUtils",
 		"Fold Python",
 		"Git",

@@ -12,7 +12,7 @@
 	[
 		{
 			"path": "/home/zfadli/repos/embedded/firmware-bitcloud",
-			"folder_exclude_patterns": ["openocd", "Build", "lib"]
+			"folder_exclude_patterns": ["openocd", "Build", "lib", "generic", "generic-embedded"]
 		}
 	]
 }
