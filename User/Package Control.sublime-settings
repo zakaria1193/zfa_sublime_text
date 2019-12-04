@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"ActualVim",
 		"Align Arguments",
 		"Alignment",
 		"All Autocomplete",
@@ -20,6 +21,7 @@
 		"Colorsublime",
 		"CSV",
 		"DocBlockr_Python",
+		"DoxyDoxygen",
 		"FileIcons",
 		"FindResultsBufferUtils",
 		"Fold Python",

@@ -15,7 +15,7 @@
 		"*.tar.gz",
 		"*.pyc"
 	],
-	"color_scheme": "Packages/Colorsublime - Themes/Monokai.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/deep_blue_see.tmTheme",
 	"dictionary": "Packages/Language - French - Français/fr_FR (all variants).dic",
 	"ensure_newline_at_eof_on_save": false,
 	"file_exclude_patterns":
@@ -27,7 +27,7 @@
 	[
 		".git"
 	],
-	"font_size": 10,
+	"font_size": 14,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
