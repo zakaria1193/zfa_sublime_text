@@ -15,7 +15,11 @@
 		"*.tar.gz",
 		"*.pyc"
 	],
+<<<<<<< Updated upstream
 	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/Adventure_Time.tmTheme",
+=======
+	"color_scheme": "Packages/Colorsublime - Themes/monokate.tmTheme",
+>>>>>>> Stashed changes
 	"dictionary": "Packages/Language - French - Français/fr_FR (all variants).dic",
 	"ensure_newline_at_eof_on_save": false,
 	"file_exclude_patterns":
@@ -43,7 +47,11 @@
 	[
 		".git"
 	],
+<<<<<<< Updated upstream
 	"font_size": 9,
+=======
+	"font_size": 10,
+>>>>>>> Stashed changes
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[

@@ -11,8 +11,12 @@
 	"folders":
 	[
 		{
+<<<<<<< Updated upstream
 			"path": "/home/zfadli/repos/embedded/firmware-bitcloud",
 			"folder_exclude_patterns": ["openocd", "Build", "lib", "generic", "generic-embedded"]
+=======
+			"path": "/home/zfadli/repos/embedded"
+>>>>>>> Stashed changes
 		}
 	]
 }
