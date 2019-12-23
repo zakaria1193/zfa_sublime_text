@@ -15,43 +15,19 @@
 		"*.tar.gz",
 		"*.pyc"
 	],
-<<<<<<< Updated upstream
-	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/Adventure_Time.tmTheme",
-=======
-	"color_scheme": "Packages/Colorsublime - Themes/monokate.tmTheme",
->>>>>>> Stashed changes
+	"color_scheme": "Packages/Colorsublime - Themes/Monokai.tmTheme",
 	"dictionary": "Packages/Language - French - Français/fr_FR (all variants).dic",
 	"ensure_newline_at_eof_on_save": false,
 	"file_exclude_patterns":
 	[
-		"*.orig",
-		"*.bin",
-		"*.hex",
-		"*.S",
-		"*.map",
-		"*.d",
-		"*.srec",
-		"*.elf",
-		"*.fw",
-		"*.zigbee",
-		"*.o",
-		"*.a",
-		"*.tar.gz",
-		"*.pyc",
-		"*.pdf",
-		"*.sys",
-		"*.dll",
-		"*.bz2"
+		"fake*",
+		"*.orig"
 	],
 	"folder_exclude_patterns":
 	[
 		".git"
 	],
-<<<<<<< Updated upstream
-	"font_size": 9,
-=======
 	"font_size": 10,
->>>>>>> Stashed changes
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -67,7 +43,6 @@
 		80,
 		100
 	],
-	"show_full_path": false,
 	"tab_completion": false,
 	"tab_size": 2,
 	"theme": "Adaptive.sublime-theme",
