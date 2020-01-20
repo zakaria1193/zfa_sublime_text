@@ -29,6 +29,12 @@
 		},
 		{
 			"path": "/home/zfadli/repos/embedded/magellan/modules/generic"
-		}
+		},
+		{
+			"path": "/home/zfadli/repos/embedded/templates/"
+		},
+		{
+			"path": "/home/zfadli/repos/core/ci-tools/"
+		},
 	]
 }
