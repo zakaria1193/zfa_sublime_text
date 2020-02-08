@@ -14,8 +14,8 @@
 			"folder_exclude_patterns":
 			[
 				// "firmware"
-				"python-emb-tools",
-				"atmel-bootloader"
+				"python-emb-tools"
+				// "atmel-bootloader"
 			],
 			"file_exclude_patterns":
 			[
@@ -35,6 +35,6 @@
 		},
 		{
 			"path": "/home/zfadli/repos/core/ci-tools/"
-		},
+		}
 	]
 }
