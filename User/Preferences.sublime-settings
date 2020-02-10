@@ -15,7 +15,7 @@
 		"*.tar.gz",
 		"*.pyc"
 	],
-	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/Neon_Kush.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/Monokai-HighFructose.tmTheme",
 	"dictionary": "Packages/Language - French - Français/fr_FR (all variants).dic",
 	"ensure_newline_at_eof_on_save": false,
 	"file_exclude_patterns":
@@ -40,7 +40,7 @@
 	[
 		".git"
 	],
-	"font_size": 10,
+	"font_size": 9,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
