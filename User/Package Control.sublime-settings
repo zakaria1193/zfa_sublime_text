@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"ActualVim",
 		"Align Arguments",
 		"Alignment",
 		"All Autocomplete",
@@ -40,6 +39,7 @@
 		"Package Control",
 		"PackageResourceViewer",
 		"Python 3",
+		"Python Breakpoints",
 		"RegexExplainTip",
 		"RemoveLineBreaks",
 		"Revert All Files",
